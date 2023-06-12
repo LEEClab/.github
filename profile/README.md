@@ -1,5 +1,5 @@
 ### 🌎 LEEC - Spatial Ecology and Conservation Lab / Laboratório de Ecologia Espacial e Conservação 🌎
 
-UNESP Rio Claro, SP, Brazil.
+:compass: Location: Rio Claro, São Paulo State University (Unesp, Portuguese: Universidade Estadual Paulista "Júlio de Mesquita Filho"), Brazil :compass:
 
 Follow us on [Facebook!](https://www.facebook.com/leec.unesp)
